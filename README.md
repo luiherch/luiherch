@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luiherch
 - 👀 I’m interested in web services, machine learning and big data
 - 🌱 I’m currently learning big data analytics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me hernandezchirlaque@gmail.com
 
 ### Connect with me:
