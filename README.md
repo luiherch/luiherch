@@ -7,7 +7,7 @@
 ### Connect with me:
 [<img align="left" alt="linkedin" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/luis-chirlaque-hern%C3%A1ndez-118016200/
+[linkedin]: https://www.linkedin.com/in/luischirlaque/
 
 </br>
 
