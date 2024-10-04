@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luiherch
-- 👀 I’m interested in machine learning, data engineering and web services.
-- 🌱 I’m currently working as a Data Engineer
-- 💞️ I’m looking to collaborate on any open source project
+- 👀 I’m interested in data engineering, machine learning and videogame development
+- 🌱 I’m currently working as a Data Engineer at Apexgroup
+- 💞️ I’m looking to collaborate on any open source project related to my interests
 - 📫 How to reach me hernandezchirlaque@gmail.com
 
 ### Languages:
